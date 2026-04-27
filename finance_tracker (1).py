@@ -1,10 +1,3 @@
-# ============================================================
-#   Personal Finance Tracker
-#   TCS iON Industry Project
-#   Author: [Your Name]
-#   Language: Python 3
-# ============================================================
-
 from datetime import datetime
 from collections import defaultdict
 
